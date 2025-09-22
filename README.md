@@ -8,7 +8,7 @@ This repository serves as a **central hub** or **gallery** for various standalon
 
 ## 📁 Repository Structure
 
-- `master`  
+- `main`  
   - Serves as a **read-only showcase** of all libraries.
   - Contains the production/stable versions.
   - **Not intended to be cloned or integrated directly into other projects.**
